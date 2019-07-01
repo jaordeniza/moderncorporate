@@ -102,14 +102,6 @@ p {
 	margin-bottom: 20px;
 }
 
-h3 {
-	padding: 20px 10px;
-}
-
-h4 {
-	padding: 20px 10px;
-}
-
 h5 {
 	color: white;
 	text-align: center;
@@ -201,5 +193,5 @@ h5 {
 
 .comment {
 	margin: 10px;
-	overflow:hidden;
+	overflow: hidden;
 }
